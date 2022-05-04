@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+
+.container {
+    background-color: antiquewhite;
+    margin-bottom: 0%;
+    margin-left: 45%;
+    width: 400px;
+    height: 600px;
+    border: 2px;
+   
+
+
+}
+
+.header {
+    margin-left: 45%;
+
+    font-family: 'Water Brush', cursive;
+
+
+}
+
+.body {
+    margin-left: 30%;
+
+
+
+}
+
+.text {
+    margin-left: 20%;
+    opacity: 0.4;
+
+}
+
+.text2 {
+    margin-Top: 20px;
+    width: 170px;
+    margin-left: 20px;
+
+}
+.text3{
+    
+    margin-left: 60px;
+    
+}
+.text4{
+margin-Top: 20px;
+    margin-left: 140px;
+    opacity: 0.4;
+}
+.text5{
+    font-family: 'Water Brush', cursive;
+    margin-left: 170px;
+    margin-Top: 20px;
+
+
+
+}
